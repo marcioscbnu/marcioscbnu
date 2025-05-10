@@ -72,7 +72,7 @@ Sou professor e desenvolvedor com atuação em:
 
 ## 🌐 Vamos nos conectar!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/prof-marcio-schoenfelder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prof-marcio-schoenfelder/)
 - 📫 [Email](mailto:marcio.schoenfelder@edu.sc.senai.br)
 - 🌍 [Portfólio](https://seusite.dev)
 
