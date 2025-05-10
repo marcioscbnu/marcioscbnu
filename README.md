@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desenvolvedor+Full+Stack;Educador+Tecnológico;Apaixonado+por+Tecnologia+e+Educação;Projetos+com+Impacto+Social+e+Educativo" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desenvolvedor+Full+Stack;Educador+Tecnológico;Apaixonado+por+Tecnologia+Inovação+e+Educação;Projetos+com+Impacto+Social+e+Educativo+" />
 </p>
 
 <p align="center">
@@ -72,8 +72,8 @@ Sou professor e desenvolvedor com atuação em:
 
 ## 🌐 Vamos nos conectar!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- 📫 [Email](mailto:seuemail@dominio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/prof-marcio-schoenfelder)
+- 📫 [Email](mailto:marcio.schoenfelder@edu.sc.senai.br)
 - 🌍 [Portfólio](https://seusite.dev)
 
 ---
