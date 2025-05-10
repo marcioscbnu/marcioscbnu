@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/marcioscbnu"><img src="https://img.shields.io/github/followers/marcioscbnu?label=Seguidores&style=social" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@dominio.com"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prof-marcio-schoenfelder/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marcio.schoenfelder@edu.sc.senai.br"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
