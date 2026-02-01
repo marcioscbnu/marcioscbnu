@@ -29,20 +29,18 @@
      [+DEVS2BLU](http://ww.devs2blu.com.br). Estes dois últimos são programas mantidos pelo
      [BLUSOFT](https://www.blusoft.org.br/) que visam alocar Desenvolvedores de Sistemas
      no mercado de trabalho de TI.
-     
-Minha Formação:
+---     
+**Minha Formação:**
+
      Graduado como Tecnólogo em Processsamento de Dados 
      Pós-graduado em Desenvolvimento de Sistemas em  JAVA
      Pós-graduado em Gestão Escolar
      Pós-graduado em Gestão de Processos
-
-Disciplinas que ministro:
+---
+**Áreas nas quais ministro:**
 
 - 👨‍🏫 **Educação Técnica e Profissionalizante** nas áreas de TI  
 - 💻 **Desenvolvimento de Sistemas Web e Mobile**  
-- ☁️ **Integrações com Cloud, Containers e Plataformas Educacionais**  
-- 🔎 **Visualização de Dados, Engenharia de Software e Automação**  
-- 🤖 **Projetos com ESP32, sensores, IA e tecnologia aplicada ao ensino**
 
 ---
 
@@ -68,18 +66,15 @@ Disciplinas que ministro:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
 
 ---
 
 ### 🗄️ Bancos de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
@@ -94,9 +89,8 @@ Disciplinas que ministro:
 
 ## 🌐 Vamos nos conectar!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prof-marcio-schoenfelder/)
 - 📫 [Email](mailto:marcio.schoenfelder@edu.sc.senai.br)
-- 🌍 [Portfólio](https://seusite.dev)
+- 🌍 [Portfólio](https://javatech.dev.br)
 
 ---
 
