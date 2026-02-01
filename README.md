@@ -1,20 +1,42 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">👋 Olá, seja bem-vindo(a) !</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desenvolvedor+Full+Stack;Educador+Tecnológico;Apaixonado+por+Tecnologia+Inovação+e+Educação;Projetos+com+Impacto+Social+e+Educativo+" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desenvolvedor+Full+Stack;Educador+Tecnológico;Apaixonado+por+Tecnologia+e+Educação+" />
 </p>
 
 <p align="center">
   <a href="https://github.com/marcioscbnu"><img src="https://img.shields.io/github/followers/marcioscbnu?label=Seguidores&style=social" /></a>
-  <a href="https://www.linkedin.com/in/prof-marcio-schoenfelder/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:marcio.schoenfelder@edu.sc.senai.br"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
+   <a href="mailto:marcio.schoenfelder@edu.sc.senai.br"><img src="https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou professor e desenvolvedor com atuação em:
+**Minha Carreira:**
+   - **Analista de Sistemas e Negócios** por formação, atuei mais de 29 anos nessa área,
+     na [TEKA](https://www.teka.com.br), iniciando com estágio em programação até chegar
+     a Analista de Sistemas e Negócios atuando 14 anos destes 29 em [ERP(TOTVS - LOGIX](https://www.totvs.com/sistema-de-gestao).
+   - Professor há cerca de 6 anos e desenvolvedor desde os 15 anos de idade, sou um
+     apaixonado pelo ensino e me preparei durante 18 anos para exercer essa função.
+     Iniciei minha carreira na [PROWAY](https://www.proway.com.br/) onde ministrei diversas disciplinas
+     e participei do desenvolvimento de vários cursos no formato EAD. Ali pude atuar em turmas dos
+     programas [ENTRA21](http://www.entra21.com.br) e [+DEVS2BLU](http://ww.devs2blu.com.br).
+     Após dois anos ingresei no [SENAI](https://sc.senai.br/) onde ministro aulas no período matutino para o
+     Ensino Médios(2ºs e 3ºs) no curso de **Desenvolvimento de Sistemas Integrado ao
+     Ensino Médio**, no período vespertino alterno entre aulas para o curso de **Técnico
+     em Desenvolvimento de Sistemas**, [ENTRA21](http://www.entra21.com.br) e
+     [+DEVS2BLU](http://ww.devs2blu.com.br). Estes dois últimos são programas mantidos pelo
+     [BLUSOFT](https://www.blusoft.org.br/) que visam alocar Desenvolvedores de Sistemas
+     no mercado de trabalho de TI.
+     
+Minha Formação:
+     Graduado como Tecnólogo em Processsamento de Dados 
+     Pós-graduado em Desenvolvimento de Sistemas em  JAVA
+     Pós-graduado em Gestão Escolar
+     Pós-graduado em Gestão de Processos
+
+Disciplinas que ministro:
 
 - 👨‍🏫 **Educação Técnica e Profissionalizante** nas áreas de TI  
 - 💻 **Desenvolvimento de Sistemas Web e Mobile**  
