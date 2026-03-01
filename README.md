@@ -33,7 +33,8 @@
 ---     
 **Minha Formação:**
 
-     Graduado como Tecnólogo em Processsamento de Dados 
+     Graduado como Tecnólogo em Processsamento de Dados
+     Pós-graduado em Tecnologia da Informação na Gestão de Processos
      Pós-graduado em Desenvolvimento de Sistemas em  JAVA
      Pós-graduado em Gestão Escolar
      Pós-graduado em Gestão de Processos
