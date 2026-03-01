@@ -29,6 +29,7 @@
      [+DEVS2BLU](http://ww.devs2blu.com.br). Estes dois últimos são programas mantidos pelo
      [BLUSOFT](https://www.blusoft.org.br/) que visam alocar Desenvolvedores de Sistemas
      no mercado de trabalho de TI.
+     Recentemente fui nomeado Avaliador para Plataforma Mobile para o [WorldSkills](https://worldskills.org/) a nível Santa Catarina.
 ---     
 **Minha Formação:**
 
