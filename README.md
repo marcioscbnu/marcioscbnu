@@ -16,7 +16,7 @@
 **Minha Carreira:**
    - **Analista de Sistemas e Negócios** por formação, atuei mais de 29 anos nessa área,
      na [TEKA](https://www.teka.com.br), iniciando com estágio em programação até chegar
-     a Analista de Sistemas e Negócios atuando 14 anos destes 29 em [ERP(TOTVS - LOGIX](https://www.totvs.com/sistema-de-gestao).
+     a Analista de Sistemas e Negócios atuando 14 anos destes 29 em [ERP(TOTVS - LOGIX)](https://www.totvs.com/sistema-de-gestao).
    - Professor há cerca de 6 anos e desenvolvedor desde os 15 anos de idade, sou um
      apaixonado pelo ensino e me preparei durante 18 anos para exercer essa função.
      Iniciei minha carreira na [PROWAY](https://www.proway.com.br/) onde ministrei diversas disciplinas
