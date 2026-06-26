@@ -14,12 +14,18 @@
 ## 🚀 Sobre mim
 
 **Minha Carreira:**
-<h5>Sou Analista de Sistemas e de Negócios por formação, com mais de 24 anos de experiência na área, tendo iniciado minha carreira na TEKA como estagiário em programação e alcançado a posição de Analista de Sistemas e Negócios. Durante 14 desses anos, atuei diretamente com ERP (TOTVS – LOGIX), acumulando sólida vivência em processos corporativos e soluções tecnológicas.
-Paralelamente, sou professor há aproximadamente seis anos e desenvolvedor desde os 15 anos de idade, movido por uma paixão genuína pelo ensino. 
-Preparei-me ao longo de 18 anos para exercer a docência, iniciando minha trajetória na PROWAY como instrutor, onde ministrei diversos cursos e contribuí para o desenvolvimento de programas no formato EAD. Nesse período, tive a oportunidade de atuar em turmas dos programas ENTRA21 e +DEVS2BLU.
-Posteriormente, ingressei no SENAI, onde leciono no período matutino para o Ensino Médio (2º e 3º anos) no curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio. 
-No período vespertino, entre aulas para o curso Técnico em Desenvolvimento de Sistemas e para o programa ENTRA21.
-Também exerço a função de orientador em projetos de inovação científica e avaliador do WorldSkill's nas ocupações de Desenvolvimento Web, TI para Negócios e Mobile.
+<h5>
+  Sou Analista de Sistemas e de Negócios por formação, com mais de 24 anos de experiência na área, 
+  tendo iniciado minha carreira na TEKA como estagiário em programação e alcançado a posição de Analista de Sistemas e Negócios. 
+  Durante 14 desses anos atuei diretamente com ERP (TOTVS – LOGIX), acumulando sólida vivência em processos corporativos e soluções tecnológicas.
+  Paralelamente, sou professor há aproximadamente seis anos e desenvolvedor desde os 15 anos de idade, movido por uma paixão genuína pelo ensino. 
+  Preparei-me ao longo de 18 anos para exercer a docência, iniciando minha trajetória na PROWAY como instrutor, onde ministrei diversos cursos e 
+  contribuí para o desenvolvimento de programas no formato EAD. 
+  Nesse período, tive a oportunidade de atuar em turmas dos programas ENTRA21 e +DEVS2BLU.
+  Posteriormente, ingressei no SENAI, onde leciono no período matutino para o Ensino Médio (2º e 3º anos) no curso Técnico em Desenvolvimento de Sistemas 
+  Integrado ao Ensino Médio. 
+  No período vespertino, entre aulas para o curso Técnico em Desenvolvimento de Sistemas e para o programa ENTRA21.
+  Também exerço a função de orientador em projetos de inovação científica e avaliador do WorldSkill's nas ocupações de Desenvolvimento Web, TI para Negócios e Mobile.
 ---     
 </h5>
 **Minha Formação:**
