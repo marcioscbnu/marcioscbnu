@@ -50,16 +50,16 @@
 
 ### Sistemas Operacionais
 :t-rex:![IBM Mainframe](https://img.shields.io/badge/IBM_Mainframe-054ADA?style=flat-square&logo=ibm&logoColor=white)
-  
-  IBM 4341 / 4381 (série 4300) 
   ![VM/370 VSE](https://img.shields.io/badge/IBM_VM%2F370_%2F_VSE-054ADA?style=flat-square&logo=ibm&logoColor=white)
+  ![IBM z/VSE](https://img.shields.io/badge/IBM_z%2FVSE-054ADA?style=flat-square&logo=ibm&logoColor=white)
+  ![IBM AS/400](https://img.shields.io/badge/IBM_AS%2F400-054ADA?style=flat-square&logo=ibm&logoColor=white)
+  ![IBM OS/2 Warp](https://img.shields.io/badge/IBM_OS%2F2_Warp-054ADA?style=flat-square&logo=ibm&logoColor=white)
+  ![Unisys Master Control Program](https://img.shields.io/badge/Unisys_Master_Control_Program-8B0000?style=flat-square&logoColor=white)
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
   
-  IBM System Z ![IBM z/VSE](https://img.shields.io/badge/IBM_z%2FVSE-054ADA?style=flat-square&logo=ibm&logoColor=white)
-  
-  OS/400 ![IBM AS/400](https://img.shields.io/badge/IBM_AS%2F400-054ADA?style=flat-square&logo=ibm&logoColor=white)
-  
-  A3 e A4 → MCP (Master Control Program)
-  ![Unisys](https://img.shields.io/badge/Unisys_Mainframe-8B0000?style=flat-square&logoColor=white)
 ---    
 
 ### 💻 Linguagens 
@@ -79,7 +79,8 @@
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
- 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  
   ### Desenvolvimento Web
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
