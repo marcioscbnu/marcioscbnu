@@ -15,36 +15,40 @@
 
 **Minha Carreira:**
 <h5>
-  Sou Analista de Sistemas e de Negócios por formação, com mais de 24 anos de experiência na área, 
-  tendo iniciado minha carreira na TEKA como estagiário em programação e alcançado a posição de Analista de Sistemas e Negócios. 
-  Durante 14 desses anos atuei diretamente com ERP (TOTVS – LOGIX), acumulando sólida vivência em processos corporativos e soluções tecnológicas.
-  Paralelamente, sou professor há aproximadamente seis anos e desenvolvedor desde os 15 anos de idade, movido por uma paixão genuína pelo ensino. 
-  Preparei-me ao longo de 18 anos para exercer a docência, iniciando minha trajetória na PROWAY como instrutor, onde ministrei diversos cursos e 
-  contribuí para o desenvolvimento de programas no formato EAD. 
-  Nesse período, tive a oportunidade de atuar em turmas dos programas ENTRA21 e +DEVS2BLU.
-  Posteriormente, ingressei no SENAI, onde leciono no período matutino para o Ensino Médio (2º e 3º anos) no curso Técnico em Desenvolvimento de Sistemas 
-  Integrado ao Ensino Médio. 
-  No período vespertino, entre aulas para o curso Técnico em Desenvolvimento de Sistemas e para o programa ENTRA21.
-  Também exerço a função de orientador em projetos de inovação científica e avaliador do WorldSkill's nas ocupações de Desenvolvimento Web, TI para Negócios e Mobile.
----     
+  Docente e Analista de Sistemas | Especialista em Engenharia de Software e Processos
+  Profissional com mais de 48 anos de vivência contínua na área de Tecnologia da Informação e 6 anos de atuação docente no Ensino Técnico e Tecnológico. 
+  Especialista no alinhamento entre arquitetura de software, processos de negócios e metodologias de ensino aplicadas.
+  
+  Destaques de Atuação e Competências Técnicas
+
+  Engenharia de Software & Mainframe: Sólida bagagem de 16 anos no desenvolvimento em linguagem COBOL abrangendo arquiteturas Mainframe IBM, AS/400 e ambientes PC.
+
+  Sistemas de Gestão & ERP: Experiência prática de 14 anos na implementação, sustentação e otimização de sistemas ERP de grande porte e governança de processos corporativos.
+
+  Docência e Formação Profissional: Instrutor nos cursos Técnicos em Desenvolvimento de Sistemas (presencial e EAD) e em programas de formação de talentos em TI, com foco em Lógica de Programação, Arquitetura e Engenharia de Software.
+
+  Inovação e Avaliação Técnica: Orientador de projetos de inovação tecnológica e avaliador do WorldSkills nas ocupações de Desenvolvimento Web, TI para Negócios e Desenvolvimento Mobile.
+ 
 </h5>
 **Minha Formação:**
 
      Graduado como Tecnólogo em Processsamento de Dados
      Pós-graduado em Tecnologia da Informação na Gestão de Processos
-     Pós-graduado em Desenvolvimento de Sistemas em  JAVA
+     Pós-graduado em Desenvolvimento de Sistemas em JAVA
      Pós-graduado em Gestão Escolar
      Pós-graduado em Gestão de Processos
+     MBA em Gestão de Projetos e Inovação
 ---
-**Áreas nas quais ministro:**
+**Atuação como Docente**
 
-- 👨‍🏫 **Educação Técnica e Profissionalizante** nas áreas de TI  
-- 💻 **Desenvolvimento de Sistemas Web e Mobile**  
+👨‍🏫 **Ensino Médio e Técnico com ênfase em Desenvolvimento de Sistemas**
 
 ---
 ## 🧰 Tecnologias que utilizo
 
-### 💻 Linguagens e Frameworks
+### 💻 Linguagens 
+
+  ### 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
